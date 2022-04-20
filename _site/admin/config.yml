@@ -1,11 +1,12 @@
 backend:
   name: git-gateway
   branch: main
+publish_mode: editorial_workflow
 media_folder: "_site/assets/blog"
 public_folder: "/assets/blog"
 collections:
-  - name: "blog"
-    label:"Blog"
+  - label: Blog
+    name: "blog"
     folder: "src/blog"
     creat: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
