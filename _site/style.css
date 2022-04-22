@@ -6,9 +6,8 @@
 
 :root {
   --fs-body: 1em;
-  --fs-title: 1.5em;
   --fs-hero: 2em;
-  --fs-tags: 0.75em;
+  --fs-tags: 0.5em;
 
   --ff-body: "ABC Diatype Semi-Mono Variable Edu", sans-serif;
   --ff-heading: "ABC Diatype Semi-Mono Variable Edu", sans-serif;
@@ -88,7 +87,7 @@ body {
 /* Make images easier to work with */
 img,
 picture {
-  max-width: 100%;
+  width: 100%;
   display: block;
 }
 
@@ -142,10 +141,17 @@ span {
 
 h1 {
   font-size: var(--fs-hero);
+  -webkit-text-stroke: 1px var(--clr-black);
+  z-index: 1;
 }
 
 .text-center {
   text-align: center;
+}
+
+.copy p {
+  text-indent: 1.5em;
+
 }
 
 
@@ -163,9 +169,42 @@ header {
 .header-content {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: top;
   text-decoration: none;
   color: var(--clr-black);
+  
+}
+
+.label::before {
+  content: '+';
+  cursor: pointer;
+  right: 0;
+}
+
+.toggle.active .label::before {
+  content: '–';
+  cursor: pointer;
+  right: 0;
+}
+
+.toggle .content {
+  display: none;
+}
+
+.toggle.active {
+  height: 100vh;
+  z-index: 2;
+
+}
+
+.toggle.active .content {
+  position: absolute;
+  width: 75%;
+  top: 5em;
+  left: 5%;
+  display: block;
+  height: 100vh;
+  overflow: scroll;
 }
 
 /* //////////////////////
@@ -205,9 +244,33 @@ header {
   Individual article page
   /////////////////////// */
 
-  .main-article {
-    margin-bottom: 3rem;
+  figure {
+    width: 60%;
+    margin: 2em auto;
   }
+
+  .article-title {
+    position: relative;
+    top: 1em;
+    font-size: 5em;
+    color: var(--clr-highlight);
+    stroke: var(--clr-black);
+  }
+
+  .copy {
+    column-count: 2;
+    column-fill: balance;
+    column-rule: none;
+    margin-bottom: 5em;
+    font-size: 1em;
+  }
+
+  @media (max-width: 768px) {
+    .copy {
+      column-count: 1;
+    }
+  }
+
 
 
 /* //////////////////////

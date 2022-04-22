@@ -7,6 +7,7 @@
     <title>{{ title }}</title>
     <link rel="stylesheet" href="/style.css">
     <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    
 
 </head>
 <body>
@@ -26,6 +27,15 @@
             }
           });
         }
+      </script>
+      <script>
+        const accordion = document.getElementsByClassName('toggle');
+
+          for (i = 0; i < accordion.length; i++) {
+              accordion[i].addEventListener('click', function () {
+                this.classList.toggle('active');
+              })
+            }
       </script>
 
 </body>
