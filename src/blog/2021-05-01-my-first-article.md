@@ -24,6 +24,9 @@ I started by screening each colour out of an existing digital image. This left m
 
 ![LEFT: A print using the colour yellow. RIGHT: Addition of magenta to yellow.](/assets/blog/untitled-1artboard-1_1.png "Risographic Prints")
 
+<b>LEFT: A print using the colour yellow. RIGHT: Addition of magenta to yellow.</b>
+
+
 To execute this experiment and bring the digitally tampered images into an analogue context, I had to employ the additive and subtractive nature of colours into consideration. I employed the Risograph Printer, because of its economic attitude the risograph has a lighter and wetter ink that seems to automatically blend and sublimate colours into one another. Because my screens were separate, parts of the channels that intersect were already determined to merge into new colours by the addition or absence of each colour. 
 
 ![LEFT: Cyan (Teal) print. RIGHT: Addition of cyan to yellow, because blue and yellow combined make green, it is possible to see small hints of a greener tone, something that was present in the original image.](/assets/blog/untitled-1artboard-1_3.png "Risographic Prints")
