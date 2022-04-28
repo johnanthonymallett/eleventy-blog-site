@@ -10,19 +10,24 @@ tags:
   - digital
   - analogue
   - experimental
-image: /assets/blog/content.png
-imageAlt: This is a test
+image: /assets/blog/untitled-1artboard-1_2.png
+imageAlt: This is a screen that finds the Red, Green & Blue values in the image.
+  By seperating them we can visualise how a screen displays an image.
 ---
-# First Article
+# Images and Screens
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Risus commodo viverra maecenas accumsan lacus vel. Donec ultrices tincidunt arcu non sodales. Mattis rhoncus urna neque viverra justo nec ultrices dui sapien. Pretium quam vulputate dignissim suspendisse in est. Lobortis mattis aliquam faucibus purus in massa tempor nec. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue. Quis ipsum suspendisse ultrices gravida dictum fusce ut placerat. Vulputate eu scelerisque felis imperdiet proin. Nisl nisi scelerisque eu ultrices.
+The inbetween space of analogue and digital can be seen as a blurry space. Most visual communication through contemporary design has some form of digital intervention. By analysing the distinctions between analogue and digital image production, it is clear that there is contrast, but both have similarities and relationships. I have chosen to dissect an image to make this relationship clear.
 
-![](/assets/blog/article-1.jpg)
+I started by screening each colour out of an existing digital image. This left me with 3 channels of colour: Red, Green & Blue (RGB), commonly used in digital displays. By intersecting these images they represent the original image, with the traces of the pattern used for screening. Traditionally print uses a different array of colours to achieve a full image: Cyan, Magenta, Yellow. The addition and subtraction of these different colours is a direct relationship between them.
 
-Enim nulla aliquet porttitor lacus luctus accumsan. Vulputate mi sit amet mauris commodo quis. Accumsan in nisl nisi scelerisque eu ultrices vitae auctor. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Placerat orci nulla pellentesque dignissim. Consequat mauris nunc congue nisi. Nec nam aliquam sem et tortor consequat. Consequat semper viverra nam libero justo laoreet sit amet. Id interdum velit laoreet id donec. Turpis in eu mi bibendum neque. Tincidunt vitae semper quis lectus. Suscipit adipiscing bibendum est ultricies integer quis auctor. Posuere urna nec tincidunt praesent semper. Sagittis id consectetur purus ut faucibus pulvinar elementum. Diam maecenas ultricies mi eget mauris. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Dui sapien eget mi proin sed.
+# Risography
 
-In iaculis nunc sed augue lacus. Pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum. Consectetur adipiscing elit ut aliquam. Tortor consequat id porta nibh venenatis cras sed. Integer enim neque volutpat ac tincidunt. Pellentesque pulvinar pellentesque habitant morbi. Ut enim blandit volutpat maecenas. Risus quis varius quam quisque id. Turpis tincidunt id aliquet risus. Congue eu consequat ac felis donec.
+![LEFT: A print using the colour yellow. RIGHT: Addition of magenta to yellow.](/assets/blog/untitled-1artboard-1_1.png "Risographic Prints")
 
-Aliquam vestibulum morbi blandit cursus risus at. Malesuada fames ac turpis egestas sed tempus. Donec et odio pellentesque diam volutpat commodo sed egestas egestas. Tortor pretium viverra suspendisse potenti nullam ac tortor vitae purus. Enim diam vulputate ut pharetra sit amet aliquam. Est ante in nibh mauris cursus mattis. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque. Nec ultrices dui sapien eget mi proin sed libero enim. Sed sed risus pretium quam vulputate. Sit amet luctus venenatis lectus magna.
+To execute this experiment and bring the digitally tampered images into an analogue context, I had to employ the additive and subtractive nature of colours into consideration. I employed the Risograph Printer, because of its economic attitude the risograph has a lighter and wetter ink that seems to automatically blend and sublimate colours into one another. Because my screens were separate, parts of the channels that intersect were already determined to merge into new colours by the addition or absence of each colour. 
 
-Mauris nunc congue nisi vitae suscipit tellus mauris. Vitae et leo duis ut. Arcu cursus euismod quis viverra nibh. Amet mauris commodo quis imperdiet. Condimentum lacinia quis vel eros donec. Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Faucibus nisl tincidunt eget nullam. Cursus metus aliquam eleifend mi in nulla. Ut placerat orci nulla pellentesque dignissim enim sit amet. Lobortis feugiat vivamus at augue eget arcu dictum. Nunc faucibus a pellentesque sit amet porttitor. Quis varius quam quisque id diam vel quam elementum pulvinar.
+![LEFT: Cyan (Teal) print. RIGHT: Addition of cyan to yellow, because blue and yellow combined make green, it is possible to see small hints of a greener tone, something that was present in the original image.](/assets/blog/untitled-1artboard-1_3.png "Risographic Prints")
+
+By weaving together each individual colour, it gives a really interesting analogue effect that cannot be easily replicated on a screen, but becomes more visually interesting because of its digital intervention from the beginning. The final full spectrum of colour gave a weaved, tartan look. This is most likely because of the subtractive nature of RGB. The origin of our screens goes back to a Scottish inventor and colour theorist named [James Clerk Maxwell.](https://www.historyofinformation.com/detail.php?id=3666) His 1861 demonstration of the first colour photograph used images taken with separate red, green and blue lens filters, of a tartan scarf. The exposures were far from perfect but his hope was that colour images could be better represented.
+
+![Final prints. The texture is similar to a tartan pattern, or pixelization.](/assets/blog/untitled-1artboard-1_4.png "Final Prints")
