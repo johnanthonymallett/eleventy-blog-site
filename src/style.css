@@ -87,8 +87,10 @@ body {
 /* Make images easier to work with */
 img,
 picture {
-  width: 100%;
+  width: 90%;
   display: block;
+  margin: 0 auto;
+  padding: 1em 0;
 }
 
 /* Inherit fonts for inputs and buttons */
@@ -259,6 +261,7 @@ header {
 
   .copy {
     column-count: 2;
+    gap: 2em;
     column-fill: balance;
     column-rule: none;
     margin-bottom: 5em;
