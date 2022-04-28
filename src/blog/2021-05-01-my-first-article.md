@@ -9,7 +9,7 @@ date: 2022-04-20T02:46:44.833Z
 tags:
   - digital
   - analogue
-  - experimental
+  - print
 image: /assets/blog/untitled-1artboard-1_2.png
 imageAlt: This is a screen that finds the Red, Green & Blue values in the image.
   By seperating them we can visualise how a screen displays an image.
