@@ -30,4 +30,6 @@ To execute this experiment and bring the digitally tampered images into an analo
 
 By weaving together each individual colour, it gives a really interesting analogue effect that cannot be easily replicated on a screen, but becomes more visually interesting because of its digital intervention from the beginning. The final full spectrum of colour gave a weaved, tartan look. This is most likely because of the subtractive nature of RGB. The origin of our screens goes back to a Scottish inventor and colour theorist named [James Clerk Maxwell.](https://www.historyofinformation.com/detail.php?id=3666) His 1861 demonstration of the first colour photograph used images taken with separate red, green and blue lens filters, of a tartan scarf. The exposures were far from perfect but his hope was that colour images could be better represented.
 
+![The three original photograph plates.](https://historyofinformation.com/images/Screen_Shot_2020-09-17_at_10.23.59_AM_big.png "The three original photograph plates")
+
 ![Final prints. The texture is similar to a tartan pattern, or pixelization.](/assets/blog/untitled-1artboard-1_4.png "Final Prints")
