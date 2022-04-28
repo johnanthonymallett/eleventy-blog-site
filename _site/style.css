@@ -14,7 +14,7 @@
 
   --fw-regular: regular;
   --fw-medium: medium;
-  --fw-bold: bold;
+  --fw-bold: medium;
 
   --clr-white: rgb(255, 255, 255);
   --clr-black: rgb(0, 0, 0);
@@ -166,6 +166,7 @@ header {
   position: fixed;
   width: 100%;
   background: linear-gradient(180deg, var(--clr-highlight) 50%, rgba(255, 255, 255, 0) 100%);
+  z-index: 1;
 }
 
 .header-content {
@@ -257,21 +258,43 @@ header {
     font-size: 5em;
     color: var(--clr-highlight);
     stroke: var(--clr-black);
+    z-index: 0;
   }
 
   .copy {
-    column-count: 2;
-    gap: 2em;
-    column-fill: balance;
-    column-rule: none;
+    width: 80%;
+    margin: 0 auto;
     margin-bottom: 5em;
     font-size: 1em;
+  }
+  .copy h1, p, b {
+    padding-bottom: 0.5em;
+  }
+
+
+  .copy h1 {
+    padding-top: 0.5em;
+  }
+
+  .copy b {
+    margin-top: 0;
+    font-size: 0.75em;
+    line-height: 30%;
   }
 
   @media (max-width: 768px) {
     .copy {
-      column-count: 1;
+      width: 100%;
     }
+
+    .article-title {
+      font-size: 3em;
+    }
+    
+    figure {
+      width: 100%;
+    }
+    
   }
 
 
@@ -302,9 +325,10 @@ header {
 }
 
 .tag {
-  margin-right: 0.5em;
+  margin-right: 1em;
   width: 100%;
 }
+
 
 .snippet-content {
   width: 100%;
