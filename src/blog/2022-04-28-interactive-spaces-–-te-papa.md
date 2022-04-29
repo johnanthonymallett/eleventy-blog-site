@@ -30,8 +30,6 @@ This work is really atmospheric and gives the user a choice to screen a colour o
 
 This work is takes reference from a wallpaper that was designed to exoticize the first meeting between colonial explorers and indigenous communities in the Pacific. Reihanas work digitises this wallpaper design to create a different narrative around this history and make it more interactive for the audience.
 
-
-
-![# Lisa Reihana: in Pursuit of Venus \[infected]](/assets/blog/img_1488.jpg "# Lisa Reihana: in Pursuit of Venus \[infected]")
+![Lisa Reihana: in Pursuit of Venus [infected]](/assets/blog/img_1488.jpg "Lisa Reihana: in Pursuit of Venus [infected]")
 
 <b>200 years later in Aotearoa, Lisa Reihana employs 21st century digital technologies to bring the scenic wallpaper to life and challenge its Eurocentric narrative.</b>
