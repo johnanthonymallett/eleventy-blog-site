@@ -4,7 +4,6 @@ description: Te papa current exhibitions
 author: John Mallett
 date: 2022-04-08T23:44:04.761Z
 tags:
-  - post
   - digital
   - analogue
   - exhibition
