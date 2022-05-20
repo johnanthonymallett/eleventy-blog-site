@@ -14,6 +14,6 @@ I was looking at some early graphic designers work. Some of the logos that were 
 
 ![Some of Frutigers logos](/assets/blog/frutiger_logos.png)
 
-
+<b>Frutigers other logos of the time. Limitations of print can only hint towards movement or dynamism.</b>
 
 I had an urge to see how this would work as a variable design, giving more dynamic appearances and functions to the original meaning. Although this function may be somewhat useless, it does give a more activated meaning to the logo. My rendition may just be a playful experiment but there is potential for this technology to add many other meanings or functions to static text.
